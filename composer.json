@@ -2,6 +2,7 @@
     "name": "consir/phpdbm",
     "description": "Facilita a integracao com o banco de dados",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Consir\\Phpdbm\\": "src/"
